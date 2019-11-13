@@ -17,3 +17,10 @@
 2. 확장 기능 설치 이후 아래의 링크를 클릭하여 이동, 설치 버튼 누르기
    * [https://raw.githubusercontent.com/nomomo/BackToOldTistoryEditor/master/BackToOldTistoryEditor.user.js](https://raw.githubusercontent.com/nomomo/BackToOldTistoryEditor/master/BackToOldTistoryEditor.user.js)
    * 주의: 본 스크립트를 설치 및 사용하며 브라우저 과부하로 인한 응답 없음/뻗음 등 으로 인한 데이터 손실 등 문제 발생 시 개발자는 책임지지 않음(보고된 문제는 없음)
+
+
+## Change Log
+### 0.0.2 (2019-11-14)
+- 블로그 글 목록에서 레이아웃 깨짐 현상 수정
+### 0.0.1 (2019-04-05)
+- 첫 개발
